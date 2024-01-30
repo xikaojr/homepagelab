@@ -1,0 +1,78 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/latest/configs/services
+
+- Daily Job:
+    - Jira:
+        icon: jira.png
+        href: https://jira.linx.com.br/secure/RapidBoard.jspa?projectKey=OMNI&rapidView=1198
+        description: OMS - Jira Sprint
+    - Outlook:
+        icon: microsoft-todo.png
+        href: https://outlook.office.com/mail/
+        description: Personal Account
+    - Microsoft:
+        icon: microsoft.png
+        href: https://myaccount.microsoft.com/
+        description: Personal Account
+    - Circle-CI:
+        icon: /images/Circleci-icon-logo.png
+        href: https://app.circleci.com/pipelines/github/chaordic/oms-cockpit
+        description: Process Build CI/CD
+    - Daywork:
+        icon: /images/daywork.png
+        href: https://daywork.com.br/
+        description: Other Jobs
+
+- Linx Url Help:
+    - COCKPIT [PRD]:
+        icon: /images/linx.jpg
+        href: https://oms.chaordic.com.br/deliveries/all
+        description: Aplicação Cockpit - Produção
+    - COCKPIT [HLG]:
+        icon: /images/linx.jpg
+        href: https://oms-homolog.chaordic.com.br/deliveries/all
+        description: Aplicação Cockpit - Homologação
+    - REMOTE-CONFIG [PRD]:
+        icon: /images/linx.jpg
+        href: http://production-remote-config.omniplat.internal/login
+        description: Aplicação Remote Config - Produção
+    - REMOTE-CONFIG [HLG]:
+        icon: /images/linx.jpg
+        href: http://homolog-remote-config.omniplat.internal/login
+        description: Aplicação Remote Config - Homologação
+    - NIFI [PRD]:
+        icon: /images/linx.jpg
+        href: https://production-nifi-oms-sales.omniplat.io/nifi/login
+        description: Aplicação NIFI Sales - Produção
+    - NIFI [HLG]:
+        icon: /images/linx.jpg
+        href: https://homolog-nifi-oms-logistics.omniplat.io/nifi/login
+        description: Aplicação NIFI Sales - Homologação
+    - SHARE:
+        icon: /images/linx.jpg
+        href: https://share.linx.com.br/#all-updates
+        description: Linx Share - Documentação
+
+- Application Monitoring:
+    - Sig.recsodine:
+        icon: radarr.png
+        href: https://sig.recsodine.com.br/
+        siteMonitor: https://sig.recsodine.com.br/
+    - Eco.silence:
+        icon: radarr.png
+        href: https://gestao.ecosilence.com.br/
+        siteMonitor: https://gestao.ecosilence.com.br/
+    - Educa:
+        icon: radarr.png
+        href: https://gestao.educandariotiajade.com.br/
+        siteMonitor: https://gestao.educandariotiajade.com.br/
+
+# - SpeedTest:
+#     - SpeedTest:
+#         icon: speedtest-tracker.png
+#         href: http://189.25.103.120
+#         description: SpeedTest
+#         widget:
+#             type: speedtest
+#             url: http://189.25.103.120

@@ -1,0 +1,51 @@
+# ---
+# # For configuration options and examples, please see:
+# # https://gethomepage.dev/latest/configs/settings
+title: JARVIS
+# headerStyle: boxed
+# layout:
+#   columns: 3
+#   # Daily Job:
+#   #   style: row
+#   #   # tab: First
+#   #   columns: 2
+
+#   Linx Url Help:
+#   #   # tab: First
+#     icon: /images/linx.jpg
+#     style: row
+#     useEqualHeights: true
+#     columns: 2
+
+#   # Application Monitoring:
+#   #   # tab: Second
+#   #   columns: 4
+
+#   # SpeedTest:
+#   #   #tab: Third
+#   #   style: row
+
+#   # Linx OMS:
+#   #   icon: github-light.png
+#   #   style: column
+#   #   # columns: 1
+#   #   #tab: Fourth
+
+#   # Pedreiro-Digital-Studio:
+#   #   icon: github-light.png
+#   #   style: column
+#     # columns: 1
+
+background:
+  image: /images/wp12752813-dark-4k-windows-wallpapers.jpg
+  blur: sm # sm, "", md, xl... see https://tailwindcss.com/docs/backdrop-blur
+  saturate: 50 # 0, 50, 100... see https://tailwindcss.com/docs/backdrop-saturate
+  brightness: 50 # 0, 50, 75... see https://tailwindcss.com/docs/backdrop-brightness
+  opacity: 50 # 0-100
+  
+# theme: dark
+# cardBlur: sm # sm, "", md, etc... see https://tailwindcss.com/docs/backdrop-blur
+  
+providers:
+  openweathermap: openweathermapapikey
+  weatherapi: weatherapiapikey

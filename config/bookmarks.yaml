@@ -1,0 +1,39 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/latest/configs/bookmarks
+- Linx OMS:
+    - LINX-CHAORDIC:
+        - icon: github-light.png
+          href: https://github.com/chaordic
+    - NEWOFFERS-ORDER:
+        - icon: github-light.png
+          href: https://github.com/chaordic/newoffers-order
+    - COCKPIT:
+        - icon: github-light.png
+          href: https://github.com/chaordic/oms-cockpit
+    - AKS-ORDER:
+        - icon: github-light.png
+          href: https://github.com/chaordic/aks-oms-order
+    - BUSCARRIER:
+        - icon: github-light.png
+          href: https://github.com/chaordic?q=buscarrier&type=all&language=&sort=
+
+- Pedreiro-Digital-Studio:
+    - Eco Silence:
+        - icon: github-light.png
+          href: https://github.com/Pedreiro-Digital-Studio-Ltda/ecosilence
+    - Educa:
+        - icon: github-light.png
+          href: https://github.com/Pedreiro-Digital-Studio-Ltda/educa
+    - Football team manager:
+        - icon: github-light.png
+          href: https://github.com/Pedreiro-Digital-Studio-Ltda/cacador
+    - Api Core Development:
+        - icon: github-light.png
+          href: https://github.com/Pedreiro-Digital-Studio-Ltda/core-essence
+    - Vella Financial:
+        - icon:  gitlab.png
+          href: https://gitlab.com/vella-financial
+    - Jettbooking:
+        - icon: atlassian.png
+          href: https://bitbucket.org/jhonnymakis/surflessons

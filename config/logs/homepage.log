@@ -1,0 +1,798 @@
+[2024-01-27T21:51:12.354Z] info: docker.yaml was copied to the config folder
+[2024-01-27T21:51:12.365Z] info: services.yaml was copied to the config folder
+[2024-01-27T21:51:12.374Z] info: bookmarks.yaml was copied to the config folder
+[2024-01-27T21:51:12.384Z] info: widgets.yaml was copied to the config folder
+[2024-01-27T21:51:12.393Z] info: custom.css was copied to the config folder
+[2024-01-27T21:51:12.396Z] info: custom.js was copied to the config folder
+[2024-01-27T21:51:12.493Z] info: kubernetes.yaml was copied to the config folder
+[2024-01-27T22:20:03.466Z] error: undefined
+[2024-01-27T22:20:03.484Z] error: <index> TypeError: group[Object.keys(...)[0]].map is not a function
+    at /app/.next/server/pages/index.js:3387:45
+    at Array.map (<anonymous>)
+    at bookmarksResponse (/app/.next/server/pages/index.js:3385:36)
+    at async getStaticProps (/app/.next/server/pages/index.js:2863:23)
+    at async Object.renderToHTML (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/render.js:386:20)
+    at async doRender (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:687:38)
+    at async cacheEntry.responseCache.get.isManualRevalidate.isManualRevalidate (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:796:28)
+    at async /app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/response-cache/index.js:80:36
+[2024-01-27T22:20:03.620Z] error: undefined
+[2024-01-27T22:20:08.825Z] error: undefined
+[2024-01-27T22:20:11.205Z] error: undefined
+[2024-01-27T22:20:11.216Z] error: undefined
+[2024-01-27T22:20:21.680Z] error: undefined
+[2024-01-27T22:20:21.687Z] error: undefined
+[2024-01-27T22:31:59.978Z] error: undefined
+[2024-01-27T22:31:59.987Z] error: undefined
+[2024-01-27T22:34:54.506Z] error: undefined
+[2024-01-27T22:34:54.518Z] error: undefined
+[2024-01-27T22:34:59.558Z] error: undefined
+[2024-01-27T22:34:59.572Z] error: undefined
+[2024-01-27T23:35:24.671Z] error: undefined
+[2024-01-27T23:35:24.679Z] error: undefined
+[2024-01-27T23:35:53.138Z] error: undefined
+[2024-01-27T23:35:53.145Z] error: undefined
+[2024-01-27T23:35:57.402Z] error: undefined
+[2024-01-27T23:35:57.407Z] error: undefined
+[2024-01-27T23:36:16.118Z] error: undefined
+[2024-01-27T23:36:16.125Z] error: undefined
+[2024-01-27T23:36:25.618Z] error: undefined
+[2024-01-27T23:36:25.625Z] error: undefined
+[2024-01-27T23:38:20.569Z] error: undefined
+[2024-01-27T23:38:20.576Z] error: undefined
+[2024-01-27T23:38:51.684Z] error: undefined
+[2024-01-27T23:38:51.692Z] error: undefined
+[2024-01-27T23:44:26.963Z] error: undefined
+[2024-01-27T23:44:26.970Z] error: undefined
+[2024-01-27T23:50:04.238Z] error: undefined
+[2024-01-27T23:50:04.245Z] error: undefined
+[2024-01-27T23:50:11.106Z] error: undefined
+[2024-01-27T23:50:11.114Z] error: undefined
+[2024-01-27T23:58:53.984Z] error: undefined
+[2024-01-27T23:58:54.047Z] error: <index> TypeError: group[Object.keys(...)[0]].map is not a function
+    at /app/.next/server/pages/index.js:3387:45
+    at Array.map (<anonymous>)
+    at bookmarksResponse (/app/.next/server/pages/index.js:3385:36)
+    at async getStaticProps (/app/.next/server/pages/index.js:2863:23)
+    at async Object.renderToHTML (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/render.js:386:20)
+    at async doRender (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:687:38)
+    at async cacheEntry.responseCache.get.isManualRevalidate.isManualRevalidate (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:796:28)
+    at async /app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/response-cache/index.js:80:36
+[2024-01-27T23:58:54.213Z] error: undefined
+[2024-01-27T23:58:58.801Z] error: undefined
+[2024-01-28T00:39:15.411Z] error: <httpProxy> Error calling http://192.168.1.62:8765/api/speedtest/latest...
+[2024-01-28T00:39:15.413Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.62:8765
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.62',
+    port: 8765
+  }
+]
+[2024-01-28T00:39:20.324Z] error: <httpProxy> Error calling http://192.168.1.62:8765/api/speedtest/latest...
+[2024-01-28T00:39:20.325Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.62:8765
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.62',
+    port: 8765
+  }
+]
+[2024-01-28T00:40:08.129Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:40:08.130Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-01-28T00:40:08.425Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:40:08.426Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-01-28T00:40:43.334Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:40:43.336Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-01-28T00:44:05.786Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:44:05.788Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 263 more bytes>
+  }
+]
+[2024-01-28T00:44:06.132Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:44:06.133Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 285 more bytes>
+  }
+]
+[2024-01-28T00:44:14.752Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:44:14.752Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-01-28T00:44:19.530Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:44:19.530Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-01-28T00:44:50.398Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:44:50.399Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-01-28T00:44:50.682Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:44:50.683Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 285 more bytes>
+  }
+]
+[2024-01-28T00:44:52.894Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:44:52.895Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 284 more bytes>
+  }
+]
+[2024-01-28T00:45:07.565Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:45:07.566Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-01-28T00:47:22.016Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:47:22.017Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 284 more bytes>
+  }
+]
+[2024-01-28T00:47:22.315Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:47:22.316Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-01-28T00:48:13.021Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:48:13.022Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 285 more bytes>
+  }
+]
+[2024-01-28T00:48:13.231Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:48:13.231Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 282 more bytes>
+  }
+]
+[2024-01-28T00:48:14.198Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:48:14.199Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-01-28T00:48:20.495Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:48:20.495Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-01-28T00:48:21.190Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:48:21.190Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-01-28T00:48:23.388Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:48:23.388Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 285 more bytes>
+  }
+]
+[2024-01-28T00:48:23.625Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:48:23.626Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 284 more bytes>
+  }
+]
+[2024-01-28T00:48:27.108Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:48:27.109Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-01-28T00:48:36.884Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:48:36.884Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-01-28T00:48:42.778Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:48:42.779Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 284 more bytes>
+  }
+]
+[2024-01-28T00:48:46.752Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:48:46.752Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 285 more bytes>
+  }
+]
+[2024-01-28T00:48:47.534Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:48:47.534Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-01-28T00:48:57.391Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:48:57.391Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 284 more bytes>
+  }
+]
+[2024-01-28T00:49:06.351Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:49:06.351Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 284 more bytes>
+  }
+]
+[2024-01-28T00:49:07.641Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:49:07.642Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 284 more bytes>
+  }
+]
+[2024-01-28T00:49:42.778Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:49:42.778Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 285 more bytes>
+  }
+]
+[2024-01-28T00:51:09.688Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:51:09.688Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 263 more bytes>
+  }
+]
+[2024-01-28T00:51:13.135Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T00:51:13.135Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 284 more bytes>
+  }
+]
+[2024-01-28T01:23:53.613Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T01:23:53.614Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 285 more bytes>
+  }
+]
+[2024-01-28T01:23:55.271Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T01:23:55.271Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-01-28T01:24:06.418Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T01:24:06.419Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-01-28T01:24:10.074Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T01:24:10.075Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-01-28T01:24:19.183Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T01:24:19.183Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 263 more bytes>
+  }
+]
+[2024-01-28T01:24:23.087Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T01:24:23.088Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 282 more bytes>
+  }
+]
+[2024-01-28T01:24:28.257Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T01:24:28.257Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-01-28T01:24:34.290Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T01:24:34.291Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-01-28T01:24:43.640Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T01:24:43.641Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-01-28T01:24:46.769Z] error: <httpProxy> Error calling http://189.25.103.120/api/speedtest/latest...
+[2024-01-28T01:24:46.770Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 31 38 39 2e 32 35 2e 31 30 33 2e 31 32 30 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-01-28T01:55:09.572Z] error: bad indentation of a mapping entry (58:9)
+
+ 55 |         description: Linx Share - Docum ...
+ 56 |     - GITHUB:
+ 57 |         description: Projects
+ 58 |         - LINX-CHAORDIC:
+--------------^
+ 59 |             icon: github-light.png
+ 60 |             href: https://github.com/ch ...
+[2024-01-28T01:55:09.576Z] error: bad indentation of a mapping entry (58:9)
+
+ 55 |         description: Linx Share - Docum ...
+ 56 |     - GITHUB:
+ 57 |         description: Projects
+ 58 |         - LINX-CHAORDIC:
+--------------^
+ 59 |             icon: github-light.png
+ 60 |             href: https://github.com/ch ...
+[2024-01-28T01:55:09.585Z] error: bad indentation of a mapping entry (58:9)
+
+ 55 |         description: Linx Share - Docum ...
+ 56 |     - GITHUB:
+ 57 |         description: Projects
+ 58 |         - LINX-CHAORDIC:
+--------------^
+ 59 |             icon: github-light.png
+ 60 |             href: https://github.com/ch ...
+[2024-01-28T01:55:09.599Z] error: Failed to load services.yaml, please check for errors
+[2024-01-28T01:55:09.600Z] error: YAMLException: bad indentation of a mapping entry (58:9)
+
+ 55 |         description: Linx Share - Docum ...
+ 56 |     - GITHUB:
+ 57 |         description: Projects
+ 58 |         - LINX-CHAORDIC:
+--------------^
+ 59 |             icon: github-light.png
+ 60 |             href: https://github.com/ch ...
+[2024-01-28T01:55:09.615Z] error: Failed to load services.yaml, please check for errors
+[2024-01-28T01:55:09.616Z] error: YAMLException: bad indentation of a mapping entry (58:9)
+
+ 55 |         description: Linx Share - Docum ...
+ 56 |     - GITHUB:
+ 57 |         description: Projects
+ 58 |         - LINX-CHAORDIC:
+--------------^
+ 59 |             icon: github-light.png
+ 60 |             href: https://github.com/ch ...
+[2024-01-28T01:55:09.824Z] error: Failed to load services.yaml, please check for errors
+[2024-01-28T01:55:09.824Z] error: YAMLException: bad indentation of a mapping entry (58:9)
+
+ 55 |         description: Linx Share - Docum ...
+ 56 |     - GITHUB:
+ 57 |         description: Projects
+ 58 |         - LINX-CHAORDIC:
+--------------^
+ 59 |             icon: github-light.png
+ 60 |             href: https://github.com/ch ...
