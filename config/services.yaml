@@ -2,11 +2,31 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/latest/configs/services
 
-- School Of Net:
+- Favorites:
     - Notion:
         icon: notion-light.png
-        href: https://www.notion.so/faoliveirajr/Curso-FullStack-2023-01d56ccc02ac49c9abd0b368767a9363
-        description: Curso FulLStack
+        href: https://www.notion.so/faoliveirajr/
+        description: Notion with every annotations
+    - Cloud MongoDb Access:
+        icon: mongodb.png
+        href: https://account.mongodb.com/account/login
+        description: MongoDb Atlas Access (Login with sso google)
+    - Mongo PlayGround:
+        icon: mongodb.png
+        href: https://mongoplayground.net/
+        description: MongoDb PlayGround
+    - Simples Nacional (BR PJ):
+        icon: cloudpanel.svg
+        href: https://www8.receita.fazenda.gov.br/SimplesNacional/Servicos/Grupo.aspx?grp=t&area=1
+        description: Site para validar informações da PJ 
+    - ISS Fortaleza (BR PJ):
+        icon: cloudpanel.svg
+        href: https://mongoplayground.net/
+        description: Site para emissão/gerenciamento de notas fiscais
+    - Agilize Contabilidade:
+        icon: cloudpanel.svg
+        href: https://app.agilize.com.br/#/
+        description: Contabilidade Online [47584961000154]
 
 - Daily Job:
     - Jira:
