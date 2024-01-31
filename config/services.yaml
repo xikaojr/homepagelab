@@ -2,6 +2,12 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/latest/configs/services
 
+- School Of Net:
+    - Notion:
+        icon: notion-light.png
+        href: https://www.notion.so/faoliveirajr/Curso-FullStack-2023-01d56ccc02ac49c9abd0b368767a9363
+        description: Curso FulLStack
+
 - Daily Job:
     - Jira:
         icon: jira.png
