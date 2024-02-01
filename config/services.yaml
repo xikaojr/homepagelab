@@ -2,6 +2,20 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/latest/configs/services
 
+- Utilities:
+    - Gmail:
+        icon: gmail.png
+        href: https://gmail.com
+        description: Gmail
+    - Translate:
+        icon: google.png
+        href: https://translate.google.com.br/?hl=pt-BR
+        description: Google Translate
+    - Youtube:
+        icon: youtube.png
+        href: https://youtube.com
+        description: Youtube
+
 - Favorites:
     - Notion:
         icon: notion-light.png
