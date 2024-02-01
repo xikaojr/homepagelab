@@ -67,6 +67,10 @@
         icon: /images/daywork.png
         href: https://daywork.com.br/
         description: Other Jobs
+    - Daywork:
+        icon: workadventure.png
+        href: https://play.workadventu.re/@/itarget-tecnologia/itarget/startup
+        description: iTarget Work Adventure
 
 - Linx Url Help:
     - COCKPIT [PRD]:
