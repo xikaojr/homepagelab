@@ -21,7 +21,7 @@
         description: Site para validar informações da PJ 
     - ISS Fortaleza (BR PJ):
         icon: cloudpanel.svg
-        href: https://mongoplayground.net/
+        href: https://iss.fortaleza.ce.gov.br/grpfor/login.seam?cid=137794
         description: Site para emissão/gerenciamento de notas fiscais
     - Agilize Contabilidade:
         icon: cloudpanel.svg
