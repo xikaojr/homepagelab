@@ -8,13 +8,17 @@
         href: https://gmail.com
         description: Gmail
     - Translate:
-        icon: google.png
+        icon: google-translate.png
         href: https://translate.google.com.br/?hl=pt-BR
         description: Google Translate
     - Youtube:
         icon: youtube.png
         href: https://youtube.com
         description: Youtube
+    - ChatGPT:
+        icon: chatgpt.png
+        href: https://chat.openai.com/
+        description: Chat Open Ai
 
 - Favorites:
     - Notion:

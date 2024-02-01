@@ -796,3 +796,51 @@
 --------------^
  59 |             icon: github-light.png
  60 |             href: https://github.com/ch ...
+[2024-02-01T14:59:49.496Z] error: <httpProxy> Error calling http://201.50.208.206/api/speedtest/latest...
+[2024-02-01T14:59:49.498Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 32 30 31 2e 35 30 2e 32 30 38 2e 32 30 36 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-02-01T15:01:07.661Z] error: <httpProxy> Error calling http://201.50.208.206/api/speedtest/latest...
+[2024-02-01T15:01:07.662Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 32 30 31 2e 35 30 2e 32 30 38 2e 32 30 36 3a 38 30 3a 20 63 6f 6e 6e ... 582 more bytes>
+  }
+]
+[2024-02-01T15:01:54.655Z] error: <httpProxy> Error calling http://201.50.208.206/api/speedtest/latest...
+[2024-02-01T15:01:54.656Z] error: <httpProxy> [
+  500,
+  Error: Parse Error: Invalid header token
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10)
+      at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+    bytesParsed: 212,
+    code: 'HPE_INVALID_HEADER_TOKEN',
+    reason: 'Invalid header token',
+    rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 32 30 31 2e 35 30 2e 32 30 38 2e 32 30 36 3a 38 30 3a 20 63 6f 6e 6e ... 282 more bytes>
+  }
+]
