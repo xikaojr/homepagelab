@@ -3,28 +3,10 @@
 # https://gethomepage.dev/latest/configs/services
 
 - Utilities:
-    - Gmail:
-        icon: gmail.png
-        href: https://gmail.com
-        description: Gmail
-    - Translate:
-        icon: google-translate.png
-        href: https://translate.google.com.br/?hl=pt-BR
-        description: Google Translate
-    - Youtube:
-        icon: youtube.png
-        href: https://youtube.com
-        description: Youtube
-    - ChatGPT:
-        icon: chatgpt.png
-        href: https://chat.openai.com/
-        description: Chat Open Ai
-
-- Favorites:
-    - Notion:
-        icon: notion-light.png
-        href: https://www.notion.so/faoliveirajr/
-        description: Notion with every annotations
+    - Render.com:
+        icon: benotes.png
+        href: https://render.com
+        description: Site para criar banco de dados e outras coisas de graça
     - Cloud MongoDb Access:
         icon: mongodb.png
         href: https://account.mongodb.com/account/login
@@ -33,6 +15,13 @@
         icon: mongodb.png
         href: https://mongoplayground.net/
         description: MongoDb PlayGround
+    - Valey of Code:
+        icon: cloudpanel.svg
+        href: https://thevalleyofcode.com/
+        description: The Valley of Code
+	
+
+- AREA PJ:
     - Simples Nacional (BR PJ):
         icon: cloudpanel.svg
         href: https://www8.receita.fazenda.gov.br/SimplesNacional/Servicos/Grupo.aspx?grp=t&area=1
@@ -59,10 +48,6 @@
         icon: microsoft.png
         href: https://myaccount.microsoft.com/
         description: Personal Account
-    - Circle-CI:
-        icon: /images/Circleci-icon-logo.png
-        href: https://app.circleci.com/pipelines/github/chaordic/oms-cockpit
-        description: Process Build CI/CD
     - Daywork:
         icon: /images/daywork.png
         href: https://daywork.com.br/
@@ -72,35 +57,16 @@
         href: https://play.workadventu.re/@/itarget-tecnologia/itarget/startup
         description: iTarget Work Adventure
 
-- Linx Url Help:
-    - COCKPIT [PRD]:
-        icon: /images/linx.jpg
-        href: https://oms.chaordic.com.br/deliveries/all
-        description: Aplicação Cockpit - Produção
-    - COCKPIT [HLG]:
-        icon: /images/linx.jpg
-        href: https://oms-homolog.chaordic.com.br/deliveries/all
-        description: Aplicação Cockpit - Homologação
-    - REMOTE-CONFIG [PRD]:
-        icon: /images/linx.jpg
-        href: http://production-remote-config.omniplat.internal/login
-        description: Aplicação Remote Config - Produção
-    - REMOTE-CONFIG [HLG]:
-        icon: /images/linx.jpg
-        href: http://homolog-remote-config.omniplat.internal/login
-        description: Aplicação Remote Config - Homologação
-    - NIFI [PRD]:
-        icon: /images/linx.jpg
-        href: https://production-nifi-oms-sales.omniplat.io/nifi/login
-        description: Aplicação NIFI Sales - Produção
-    - NIFI [HLG]:
-        icon: /images/linx.jpg
-        href: https://homolog-nifi-oms-logistics.omniplat.io/nifi/login
-        description: Aplicação NIFI Sales - Homologação
-    - SHARE:
-        icon: /images/linx.jpg
-        href: https://share.linx.com.br/#all-updates
-        description: Linx Share - Documentação
+- ABC Tecnology:
+    - Digibee:
+        icon: radarr.png
+        href: https://www.godigibee.io/login
+        description: Digibee
+    - EFCS:
+        icon: radarr.png
+        href: http://app.efcs.com.br/expenses-web/index.jsf
+        description: Ponto Eletronico EFCS
+
 
 - Application Monitoring:
     - Sig.recsodine:
@@ -111,16 +77,3 @@
         icon: radarr.png
         href: https://gestao.ecosilence.com.br/
         siteMonitor: https://gestao.ecosilence.com.br/
-    - Educa:
-        icon: radarr.png
-        href: https://gestao.educandariotiajade.com.br/
-        siteMonitor: https://gestao.educandariotiajade.com.br/
-
-# - SpeedTest:
-#     - SpeedTest:
-#         icon: speedtest-tracker.png
-#         href: http://189.25.103.120
-#         description: SpeedTest
-#         widget:
-#             type: speedtest
-#             url: http://189.25.103.120

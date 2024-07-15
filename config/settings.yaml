@@ -2,6 +2,10 @@
 # # For configuration options and examples, please see:
 # # https://gethomepage.dev/latest/configs/settings
 title: JARVIS
+layout:
+  Media:
+    style: row
+    columns: 5
 # headerStyle: boxed
 # layout:
 #   columns: 3

@@ -844,3 +844,4726 @@
     rawPacket: <Buffer 48 54 54 50 2f 31 2e 30 20 34 30 33 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 32 30 31 2e 35 30 2e 32 30 38 2e 32 30 36 3a 38 30 3a 20 63 6f 6e 6e ... 282 more bytes>
   }
 ]
+[2024-03-14T11:10:35.529Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T11:10:35.536Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T11:12:46.596Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T11:12:46.596Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T11:23:17.380Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T11:23:17.381Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T11:25:28.453Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T11:25:28.454Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T11:25:42.788Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T11:25:42.789Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T11:27:53.860Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T11:27:53.861Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T11:33:03.108Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T11:33:03.109Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T11:34:06.596Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T11:34:06.597Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T11:35:14.180Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T11:35:14.181Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T11:35:28.516Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T11:35:28.517Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T11:36:17.668Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T11:36:17.669Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T11:36:58.628Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T11:36:58.629Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T11:37:39.588Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T11:37:39.589Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T11:39:09.700Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T11:39:09.700Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T11:39:42.468Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T11:39:42.469Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T11:41:53.540Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T11:41:53.541Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T11:43:23.652Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T11:43:23.652Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T11:45:34.724Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T11:45:34.724Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T11:51:10.596Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T11:51:10.596Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T11:53:21.668Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T11:53:21.668Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T12:13:05.412Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T12:13:05.413Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T12:15:16.484Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T12:15:16.485Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T12:33:19.876Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T12:33:19.876Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T12:34:00.836Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T12:34:00.837Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T12:35:22.756Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T12:35:22.756Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T12:35:30.948Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T12:35:30.948Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T12:36:11.908Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T12:36:11.908Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T12:37:33.828Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T12:37:33.828Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T12:37:52.260Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T12:37:52.260Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T12:40:03.332Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T12:40:03.332Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T12:46:01.732Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T12:46:01.733Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T12:48:12.804Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T12:48:12.804Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T13:01:45.860Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T13:01:45.860Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T13:03:56.932Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T13:03:56.932Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T13:04:31.748Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T13:04:31.748Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T13:06:42.820Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T13:06:42.820Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T13:18:19.140Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T13:18:19.140Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T13:19:22.628Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T13:19:22.629Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T13:20:22.020Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T13:20:22.020Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T13:20:30.212Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T13:20:30.212Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T13:21:33.700Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T13:21:33.700Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T13:22:33.092Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T13:22:33.092Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T13:42:22.980Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T13:42:22.980Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T13:44:34.052Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T13:44:34.052Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T13:54:36.164Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T13:54:36.165Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T13:55:41.700Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T13:55:41.700Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T13:56:47.236Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T13:56:47.236Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T13:57:01.572Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T13:57:01.573Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T13:57:52.772Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T13:57:52.772Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T13:58:21.444Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T13:58:21.444Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T13:59:12.648Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T13:59:12.648Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T13:59:39.268Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T13:59:39.268Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T14:00:32.516Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T14:00:32.516Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T14:01:50.340Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T14:01:50.340Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T14:17:09.892Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T14:17:09.893Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T14:19:20.964Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T14:19:20.964Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T14:28:33.924Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T14:28:33.924Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T14:30:44.996Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T14:30:44.996Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T14:48:58.628Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T14:48:58.629Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T14:49:15.012Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T14:49:15.012Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T14:51:09.700Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T14:51:09.700Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T14:51:26.084Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T14:51:26.084Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T15:25:03.364Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T15:25:03.364Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T15:27:14.436Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T15:27:14.437Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T15:53:33.444Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T15:53:33.444Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T15:55:44.516Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T15:55:44.516Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T16:00:43.524Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T16:00:43.524Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T16:02:54.596Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T16:02:54.596Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T16:21:02.084Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T16:21:02.084Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T16:23:13.156Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T16:23:13.156Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T16:56:09.476Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T16:56:09.476Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T16:57:37.540Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T16:57:37.540Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T16:58:20.548Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T16:58:20.549Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T16:59:24.036Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T16:59:24.036Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T16:59:48.612Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T16:59:48.612Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T17:01:35.108Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T17:01:35.108Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T17:05:30.628Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T17:05:30.628Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T17:07:41.700Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T17:07:41.700Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T17:23:40.164Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T17:23:40.164Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T17:25:51.236Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T17:25:51.236Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T17:28:26.884Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T17:28:26.887Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T17:30:37.956Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T17:30:37.956Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T18:18:04.676Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T18:18:04.676Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T18:20:15.748Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T18:20:15.748Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T18:30:24.004Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T18:30:24.004Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T18:32:04.356Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T18:32:04.356Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T18:32:35.076Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T18:32:35.076Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T18:34:15.428Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T18:34:15.429Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T18:35:39.396Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T18:35:39.396Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T18:37:50.468Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T18:37:50.468Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T21:30:33.348Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T21:30:33.348Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T21:31:55.268Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T21:31:55.268Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T21:32:44.420Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T21:32:44.420Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T21:34:06.340Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T21:34:06.340Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T22:25:32.676Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T22:25:32.676Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T22:27:43.748Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T22:27:43.749Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T22:52:20.356Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T22:52:20.356Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T22:53:38.180Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T22:53:38.181Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T22:54:31.428Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T22:54:31.428Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T22:55:49.252Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T22:55:49.252Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T23:09:34.596Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T23:09:34.596Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T23:11:45.668Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T23:11:45.668Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T23:19:30.564Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T23:19:30.564Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T23:21:41.636Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T23:21:41.636Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T23:25:16.676Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T23:25:16.676Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T23:25:16.680Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T23:25:16.681Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T23:27:27.748Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T23:27:27.748Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-14T23:27:27.748Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-14T23:27:27.749Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T00:30:18.116Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T00:30:18.116Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T00:32:29.188Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T00:32:29.188Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T00:33:34.724Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T00:33:34.724Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T00:35:45.796Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T00:35:45.796Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T10:33:38.564Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T10:33:38.564Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T10:35:49.636Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T10:35:49.636Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T10:41:21.412Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T10:41:21.413Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T10:43:32.484Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T10:43:32.484Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T10:52:06.532Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T10:52:06.532Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T10:54:17.604Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T10:54:17.604Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T10:54:38.084Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T10:54:38.084Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T10:56:24.580Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T10:56:24.580Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T10:56:49.156Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T10:56:49.156Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T10:58:35.652Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T10:58:35.652Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T11:06:16.452Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T11:06:16.452Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T11:08:27.524Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T11:08:27.524Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T11:10:59.076Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T11:10:59.077Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T11:13:10.148Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T11:13:10.148Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T11:26:12.484Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T11:26:12.484Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T11:26:49.348Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T11:26:49.348Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T11:28:23.556Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T11:28:23.556Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T11:29:00.420Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T11:29:00.420Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T11:50:57.284Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T11:50:57.285Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T11:53:08.356Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T11:53:08.356Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T12:09:29.348Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T12:09:29.348Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T12:11:40.420Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T12:11:40.420Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T12:58:42.564Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T12:58:42.566Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-03-15T13:00:53.636Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-03-15T13:00:53.636Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-04-04T19:13:17.639Z] error: tab characters must not be used in indentation (31:1)
+
+ 28 |         href: https://mongoplay ...
+ 29 |         description: MongoDb Pl ...
+ 30 |     - Valey of Code:
+ 31 | →icon: javascript.png
+------^
+ 32 | →href: https://thevalleyofcode.com/
+ 33 | →description: The Valley of Code
+[2024-04-04T19:13:17.643Z] error: tab characters must not be used in indentation (31:1)
+
+ 28 |         href: https://mongoplay ...
+ 29 |         description: MongoDb Pl ...
+ 30 |     - Valey of Code:
+ 31 | →icon: javascript.png
+------^
+ 32 | →href: https://thevalleyofcode.com/
+ 33 | →description: The Valley of Code
+[2024-04-04T19:13:17.646Z] error: tab characters must not be used in indentation (31:1)
+
+ 28 |         href: https://mongoplay ...
+ 29 |         description: MongoDb Pl ...
+ 30 |     - Valey of Code:
+ 31 | →icon: javascript.png
+------^
+ 32 | →href: https://thevalleyofcode.com/
+ 33 | →description: The Valley of Code
+[2024-04-04T19:13:17.651Z] error: Failed to load services.yaml, please check for errors
+[2024-04-04T19:13:17.652Z] error: YAMLException: tab characters must not be used in indentation (31:1)
+
+ 28 |         href: https://mongoplay ...
+ 29 |         description: MongoDb Pl ...
+ 30 |     - Valey of Code:
+ 31 | →icon: javascript.png
+------^
+ 32 | →href: https://thevalleyofcode.com/
+ 33 | →description: The Valley of Code
+[2024-04-04T19:13:18.258Z] error: Failed to load services.yaml, please check for errors
+[2024-04-04T19:13:18.259Z] error: YAMLException: tab characters must not be used in indentation (31:1)
+
+ 28 |         href: https://mongoplay ...
+ 29 |         description: MongoDb Pl ...
+ 30 |     - Valey of Code:
+ 31 | →icon: javascript.png
+------^
+ 32 | →href: https://thevalleyofcode.com/
+ 33 | →description: The Valley of Code
+[2024-04-04T19:13:29.417Z] error: Failed to load services.yaml, please check for errors
+[2024-04-04T19:13:29.418Z] error: YAMLException: tab characters must not be used in indentation (31:1)
+
+ 28 |         href: https://mongoplay ...
+ 29 |         description: MongoDb Pl ...
+ 30 |     - Valey of Code:
+ 31 | →icon: javascript.png
+------^
+ 32 | →href: https://thevalleyofcode.com/
+ 33 | →description: The Valley of Code
+[2024-04-04T19:13:54.987Z] error: Failed to load services.yaml, please check for errors
+[2024-04-04T19:13:54.987Z] error: YAMLException: tab characters must not be used in indentation (31:1)
+
+ 28 |         href: https://mongoplay ...
+ 29 |         description: MongoDb Pl ...
+ 30 |     - Valey of Code:
+ 31 | →icon: github.png
+------^
+ 32 | →href: https://thevalleyofcode.com/
+ 33 | →description: The Valley of Code
+[2024-04-04T19:13:55.667Z] error: Failed to load services.yaml, please check for errors
+[2024-04-04T19:13:55.667Z] error: YAMLException: tab characters must not be used in indentation (31:1)
+
+ 28 |         href: https://mongoplay ...
+ 29 |         description: MongoDb Pl ...
+ 30 |     - Valey of Code:
+ 31 | →icon: github.png
+------^
+ 32 | →href: https://thevalleyofcode.com/
+ 33 | →description: The Valley of Code
+[2024-04-04T19:14:20.733Z] error: Failed to load services.yaml, please check for errors
+[2024-04-04T19:14:20.734Z] error: YAMLException: tab characters must not be used in indentation (31:1)
+
+ 28 |         href: https://mongoplay ...
+ 29 |         description: MongoDb Pl ...
+ 30 |     - Valey of Code:
+ 31 | →icon: cloudpanel.svg
+------^
+ 32 | →href: https://thevalleyofcode.com/
+ 33 | →description: The Valley of Code
+[2024-04-04T19:14:21.112Z] error: Failed to load services.yaml, please check for errors
+[2024-04-04T19:14:21.112Z] error: YAMLException: tab characters must not be used in indentation (31:1)
+
+ 28 |         href: https://mongoplay ...
+ 29 |         description: MongoDb Pl ...
+ 30 |     - Valey of Code:
+ 31 | →icon: cloudpanel.svg
+------^
+ 32 | →href: https://thevalleyofcode.com/
+ 33 | →description: The Valley of Code
+[2024-04-04T19:14:45.484Z] error: Failed to load services.yaml, please check for errors
+[2024-04-04T19:14:45.484Z] error: YAMLException: tab characters must not be used in indentation (32:1)
+
+ 29 |         description: MongoDb Pl ...
+ 30 |     - Valey of Code:
+ 31 |         icon: cloudpanel.svg
+ 32 | →href: https://thevalleyofcode.com/
+------^
+ 33 | →description: The Valley of Code
+ 34 | →
+[2024-04-04T19:14:45.901Z] error: Failed to load services.yaml, please check for errors
+[2024-04-04T19:14:45.902Z] error: YAMLException: tab characters must not be used in indentation (32:1)
+
+ 29 |         description: MongoDb Pl ...
+ 30 |     - Valey of Code:
+ 31 |         icon: cloudpanel.svg
+ 32 | →href: https://thevalleyofcode.com/
+------^
+ 33 | →description: The Valley of Code
+ 34 | →
+[2024-04-16T23:39:22.849Z] error: tab characters must not be used in indentation (85:1)
+
+ 82 | 
+ 83 | - Free Services:
+ 84 |     - Render.com
+ 85 | →icon: radarr.png
+------^
+ 86 | →href: https://render.com
+ 87 | →description: Site para criar b ...
+[2024-04-16T23:39:22.852Z] error: tab characters must not be used in indentation (85:1)
+
+ 82 | 
+ 83 | - Free Services:
+ 84 |     - Render.com
+ 85 | →icon: radarr.png
+------^
+ 86 | →href: https://render.com
+ 87 | →description: Site para criar b ...
+[2024-04-16T23:39:22.853Z] error: tab characters must not be used in indentation (85:1)
+
+ 82 | 
+ 83 | - Free Services:
+ 84 |     - Render.com
+ 85 | →icon: radarr.png
+------^
+ 86 | →href: https://render.com
+ 87 | →description: Site para criar b ...
+[2024-04-16T23:39:22.862Z] error: Failed to load services.yaml, please check for errors
+[2024-04-16T23:39:22.863Z] error: YAMLException: tab characters must not be used in indentation (85:1)
+
+ 82 | 
+ 83 | - Free Services:
+ 84 |     - Render.com
+ 85 | →icon: radarr.png
+------^
+ 86 | →href: https://render.com
+ 87 | →description: Site para criar b ...
+[2024-04-16T23:39:23.138Z] error: tab characters must not be used in indentation (85:1)
+
+ 82 | 
+ 83 | - Free Services:
+ 84 |     - Render.com
+ 85 | →icon: radarr.png
+------^
+ 86 | →href: https://render.com
+ 87 | →description: Site para criar b ...
+[2024-04-16T23:39:23.138Z] error: tab characters must not be used in indentation (85:1)
+
+ 82 | 
+ 83 | - Free Services:
+ 84 |     - Render.com
+ 85 | →icon: radarr.png
+------^
+ 86 | →href: https://render.com
+ 87 | →description: Site para criar b ...
+[2024-04-16T23:39:23.140Z] error: tab characters must not be used in indentation (85:1)
+
+ 82 | 
+ 83 | - Free Services:
+ 84 |     - Render.com
+ 85 | →icon: radarr.png
+------^
+ 86 | →href: https://render.com
+ 87 | →description: Site para criar b ...
+[2024-04-16T23:39:23.143Z] error: Failed to load services.yaml, please check for errors
+[2024-04-16T23:39:23.143Z] error: YAMLException: tab characters must not be used in indentation (85:1)
+
+ 82 | 
+ 83 | - Free Services:
+ 84 |     - Render.com
+ 85 | →icon: radarr.png
+------^
+ 86 | →href: https://render.com
+ 87 | →description: Site para criar b ...
+[2024-04-16T23:39:23.482Z] error: Failed to load services.yaml, please check for errors
+[2024-04-16T23:39:23.483Z] error: YAMLException: tab characters must not be used in indentation (85:1)
+
+ 82 | 
+ 83 | - Free Services:
+ 84 |     - Render.com
+ 85 | →icon: radarr.png
+------^
+ 86 | →href: https://render.com
+ 87 | →description: Site para criar b ...
+[2024-04-16T23:39:23.945Z] error: Failed to load services.yaml, please check for errors
+[2024-04-16T23:39:23.945Z] error: YAMLException: tab characters must not be used in indentation (85:1)
+
+ 82 | 
+ 83 | - Free Services:
+ 84 |     - Render.com
+ 85 | →icon: radarr.png
+------^
+ 86 | →href: https://render.com
+ 87 | →description: Site para criar b ...
+[2024-04-16T23:39:39.834Z] error: Failed to load services.yaml, please check for errors
+[2024-04-16T23:39:39.834Z] error: YAMLException: bad indentation of a sequence entry (85:13)
+
+ 82 | 
+ 83 | - Free Services:
+ 84 |     - Render.com
+ 85 |         icon: radarr.png
+------------------^
+ 86 |         href: https://render.com
+ 87 |         description: Site para criar banco  ...
+[2024-04-16T23:39:40.291Z] error: Failed to load services.yaml, please check for errors
+[2024-04-16T23:39:40.291Z] error: YAMLException: bad indentation of a sequence entry (85:13)
+
+ 82 | 
+ 83 | - Free Services:
+ 84 |     - Render.com
+ 85 |         icon: radarr.png
+------------------^
+ 86 |         href: https://render.com
+ 87 |         description: Site para criar banco  ...
+[2024-04-16T23:39:41.334Z] error: Failed to load services.yaml, please check for errors
+[2024-04-16T23:39:41.334Z] error: YAMLException: bad indentation of a sequence entry (85:13)
+
+ 82 | 
+ 83 | - Free Services:
+ 84 |     - Render.com
+ 85 |         icon: radarr.png
+------------------^
+ 86 |         href: https://render.com
+ 87 |         description: Site para criar banco  ...
+[2024-04-16T23:40:06.674Z] error: Failed to load services.yaml, please check for errors
+[2024-04-16T23:40:06.674Z] error: YAMLException: bad indentation of a sequence entry (85:13)
+
+ 82 | 
+ 83 | - Free Services:
+ 84 |     - Render.com
+ 85 |         icon: radarr.png
+------------------^
+ 86 |         href: https://render.com
+ 87 |         description: Site para criar banco  ...
+[2024-04-16T23:40:08.288Z] error: Failed to load services.yaml, please check for errors
+[2024-04-16T23:40:08.288Z] error: YAMLException: bad indentation of a sequence entry (85:13)
+
+ 82 | 
+ 83 | - Free Services:
+ 84 |     - Render.com
+ 85 |         icon: radarr.png
+------------------^
+ 86 |         href: https://render.com
+ 87 |         description: Site para criar banco  ...
+[2024-04-27T13:49:40.745Z] error: undefined
+[2024-04-27T13:49:40.746Z] error: undefined
+[2024-04-27T13:49:40.746Z] error: undefined
+[2024-04-27T13:49:40.747Z] error: undefined
+[2024-05-17T18:02:12.359Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T18:02:12.360Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T18:04:23.428Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T18:04:23.428Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T18:14:23.492Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T18:14:23.492Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T18:16:34.564Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T18:16:34.564Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T18:22:53.444Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T18:22:53.445Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T18:23:38.500Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T18:23:38.500Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T18:24:58.372Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T18:24:58.372Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T18:25:04.516Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T18:25:04.516Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T18:25:45.476Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T18:25:45.476Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T18:25:49.572Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T18:25:49.572Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T18:26:05.956Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T18:26:05.956Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T18:26:10.052Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T18:26:10.052Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T18:27:09.444Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T18:27:09.444Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T18:27:56.548Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T18:27:56.548Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T18:28:17.028Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T18:28:17.028Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T18:28:21.124Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T18:28:21.124Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T18:36:55.172Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T18:36:55.172Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T18:38:17.092Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T18:38:17.092Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T18:39:06.244Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T18:39:06.244Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T18:40:28.164Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T18:40:28.164Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T19:29:10.660Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T19:29:10.661Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T19:30:55.108Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T19:30:55.108Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T19:31:21.732Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T19:31:21.732Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T19:33:06.180Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T19:33:06.181Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T19:34:38.340Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T19:34:38.340Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T19:34:40.388Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T19:34:40.388Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T19:36:49.412Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T19:36:49.412Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T19:36:51.460Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T19:36:51.460Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T19:41:27.940Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T19:41:27.940Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T19:43:39.012Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T19:43:39.012Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T19:43:49.252Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T19:43:49.252Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T19:46:00.324Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T19:46:00.324Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T19:55:17.380Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T19:55:17.380Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T19:57:28.452Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T19:57:28.452Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T21:17:16.676Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T21:17:16.676Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T21:19:27.748Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T21:19:27.748Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T21:23:56.036Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T21:23:56.036Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T21:24:20.612Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T21:24:20.612Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T21:26:07.108Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T21:26:07.108Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T21:26:31.684Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T21:26:31.684Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T21:53:35.748Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T21:53:35.748Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T21:55:46.820Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T21:55:46.820Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T22:11:35.044Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T22:11:35.044Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T22:11:41.188Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T22:11:41.188Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T22:13:46.116Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T22:13:46.116Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-17T22:13:52.260Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-17T22:13:52.260Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-18T14:54:43.716Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-18T14:54:43.716Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-18T14:56:22.020Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-18T14:56:22.020Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-18T14:56:54.788Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-18T14:56:54.788Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-18T14:58:33.092Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-18T14:58:33.092Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-18T15:13:23.972Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-18T15:13:23.972Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-18T15:15:35.044Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-18T15:15:35.044Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-18T15:19:38.756Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-18T15:19:38.756Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-18T15:20:44.292Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-18T15:20:44.292Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-18T15:21:49.828Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-18T15:21:49.828Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-18T15:22:55.364Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-18T15:22:55.364Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-18T18:10:45.380Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-18T18:10:45.380Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-18T18:11:07.908Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-18T18:11:07.908Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-18T18:12:56.452Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-18T18:12:56.452Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-18T18:13:18.980Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-18T18:13:18.980Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-18T18:31:14.180Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-18T18:31:14.180Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-18T18:33:25.252Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-18T18:33:25.252Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T11:38:43.076Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T11:38:43.076Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T11:40:21.380Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T11:40:21.380Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T11:40:27.524Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T11:40:27.524Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T11:40:54.148Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T11:40:54.148Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T11:42:32.452Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T11:42:32.452Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T11:42:38.596Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T11:42:38.596Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T11:46:48.452Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T11:46:48.452Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T11:48:59.525Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T11:48:59.526Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T12:06:56.772Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T12:06:56.772Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T12:09:07.844Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T12:09:07.845Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T12:12:28.548Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T12:12:28.548Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T12:14:39.620Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T12:14:39.620Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T13:14:48.196Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T13:14:48.196Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T13:16:59.268Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T13:16:59.268Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T14:40:38.916Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T14:40:38.916Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T14:42:49.988Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T14:42:49.988Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T14:49:37.540Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T14:49:37.540Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T14:51:48.612Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T14:51:48.612Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T15:11:34.404Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T15:11:34.404Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T15:13:45.476Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T15:13:45.476Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T15:32:31.876Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T15:32:31.876Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T15:34:42.948Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T15:34:42.948Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T15:45:36.260Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T15:45:36.260Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T15:47:47.332Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T15:47:47.332Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T16:27:37.348Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T16:27:37.348Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T16:28:32.644Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T16:28:32.644Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T16:29:48.420Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T16:29:48.420Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T16:30:43.716Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T16:30:43.716Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T16:30:49.860Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T16:30:49.860Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T16:33:00.932Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T16:33:00.932Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T16:52:52.868Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T16:52:52.868Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T16:55:03.940Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T16:55:03.940Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T16:57:02.724Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T16:57:02.724Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T16:58:47.172Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T16:58:47.172Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T16:59:13.796Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T16:59:13.796Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T17:00:58.244Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T17:00:58.244Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T17:07:15.076Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T17:07:15.076Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T17:09:26.148Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T17:09:26.148Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T17:14:08.772Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T17:14:08.772Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T17:16:19.844Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T17:16:19.844Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T17:22:08.004Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T17:22:08.005Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T17:24:19.076Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T17:24:19.076Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T17:28:47.364Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T17:28:47.364Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T17:30:58.436Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T17:30:58.436Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T17:38:16.708Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T17:38:16.708Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T17:40:27.780Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T17:40:27.780Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T17:54:02.884Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T17:54:02.884Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T17:56:13.956Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T17:56:13.956Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T20:45:44.324Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T20:45:44.324Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-19T20:47:55.396Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-19T20:47:55.396Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T10:55:12.900Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T10:55:12.900Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T10:57:23.972Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T10:57:23.972Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T10:59:02.276Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T10:59:02.276Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T11:01:13.348Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T11:01:13.348Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T11:14:27.972Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T11:14:27.973Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T11:16:39.044Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T11:16:39.044Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T11:32:17.028Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T11:32:17.028Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T11:34:28.100Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T11:34:28.100Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T14:28:45.188Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T14:28:45.188Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T14:30:56.260Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T14:30:56.260Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T14:39:24.164Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T14:39:24.164Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T14:41:35.236Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T14:41:35.236Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T16:04:17.540Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T16:04:17.541Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T16:06:28.612Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T16:06:28.612Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T16:51:25.828Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T16:51:25.828Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T16:52:41.604Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T16:52:41.604Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T16:53:36.900Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T16:53:36.900Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T16:54:52.676Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T16:54:52.676Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T17:18:25.796Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T17:18:25.796Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T17:20:36.868Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T17:20:36.868Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T17:36:57.860Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T17:36:57.860Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T17:39:08.932Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T17:39:08.932Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T17:43:18.788Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T17:43:18.788Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T17:45:29.860Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T17:45:29.860Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T17:49:27.428Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T17:49:27.428Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T17:51:38.500Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T17:51:38.500Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T17:52:50.180Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T17:52:50.180Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T17:55:01.252Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T17:55:01.252Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T18:11:36.580Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T18:11:36.580Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T18:13:47.652Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T18:13:47.652Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T19:10:47.812Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T19:10:47.813Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-20T19:12:58.884Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-20T19:12:58.886Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T11:21:04.260Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T11:21:04.260Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T11:23:15.332Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T11:23:15.332Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T12:36:16.004Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T12:36:16.004Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T12:38:27.076Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T12:38:27.076Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T13:01:56.100Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T13:01:56.100Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T13:03:01.636Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T13:03:01.637Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T13:04:07.172Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T13:04:07.172Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T13:04:27.652Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T13:04:27.652Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T13:05:12.708Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T13:05:12.709Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T13:05:57.764Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T13:05:57.764Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T13:06:38.724Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T13:06:38.724Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T13:07:36.068Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T13:07:36.068Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T13:08:08.836Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T13:08:08.836Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T13:09:47.140Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T13:09:47.141Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T13:10:56.772Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T13:10:56.772Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T13:13:07.844Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T13:13:07.844Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T13:14:15.428Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T13:14:15.428Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T13:16:26.500Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T13:16:26.500Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T17:50:17.604Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T17:50:17.604Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T17:52:28.676Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T17:52:28.676Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T18:00:34.052Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T18:00:34.052Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T18:02:45.124Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T18:02:45.124Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T18:10:50.500Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T18:10:50.501Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T18:13:01.572Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T18:13:01.572Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T20:30:20.676Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T20:30:20.676Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T20:32:31.748Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T20:32:31.748Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T21:23:49.892Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T21:23:49.892Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T21:26:00.964Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T21:26:00.964Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T21:29:15.524Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T21:29:15.524Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T21:31:26.596Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T21:31:26.597Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T21:35:48.740Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T21:35:48.740Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T21:35:50.788Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T21:35:50.788Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T21:37:59.812Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T21:37:59.812Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-21T21:38:01.860Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-21T21:38:01.860Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T10:52:33.156Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T10:52:33.156Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T10:54:44.228Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T10:54:44.228Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T11:21:07.332Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T11:21:07.332Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T11:23:18.404Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T11:23:18.404Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T11:25:35.620Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T11:25:35.620Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T11:27:46.692Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T11:27:46.692Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T11:44:17.924Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T11:44:17.924Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T11:44:44.548Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T11:44:44.548Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T11:44:48.644Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T11:44:48.644Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T11:46:28.996Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T11:46:28.996Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T11:46:55.620Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T11:46:55.620Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T11:46:59.716Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T11:46:59.716Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T11:57:46.884Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T11:57:46.884Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T11:59:57.956Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T11:59:57.956Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T12:26:53.828Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T12:26:53.828Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T12:29:04.900Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T12:29:04.900Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T12:51:57.060Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T12:51:57.060Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T12:54:08.132Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T12:54:08.132Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T14:28:06.276Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T14:28:06.276Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T14:29:03.620Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T14:29:03.620Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T14:30:17.350Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T14:30:17.350Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T14:31:14.692Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T14:31:14.692Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T19:01:10.276Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T19:01:10.276Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T19:03:21.348Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T19:03:21.348Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T19:32:03.716Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T19:32:03.717Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T19:34:14.788Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T19:34:14.788Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T19:45:06.052Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T19:45:06.052Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T19:47:17.124Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T19:47:17.124Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T20:51:31.460Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T20:51:31.462Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T20:53:42.532Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T20:53:42.532Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T21:16:26.500Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T21:16:26.500Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T21:18:37.572Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T21:18:37.572Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T22:36:29.060Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T22:36:29.060Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T22:38:40.132Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T22:38:40.132Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T22:46:41.412Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T22:46:41.412Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T22:48:52.484Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T22:48:52.484Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T23:00:34.948Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T23:00:34.948Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T23:02:46.020Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T23:02:46.020Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T23:06:00.580Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T23:06:00.580Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T23:06:47.684Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T23:06:47.684Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T23:08:11.652Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T23:08:11.652Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T23:08:58.756Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T23:08:58.756Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T23:15:38.116Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T23:15:38.116Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T23:16:19.076Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T23:16:19.076Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T23:17:49.188Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T23:17:49.188Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T23:18:30.148Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T23:18:30.148Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T23:47:53.476Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T23:47:53.476Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T23:50:04.548Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T23:50:04.548Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-22T23:58:28.356Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-22T23:58:28.356Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T00:00:39.428Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T00:00:39.428Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T00:09:23.716Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T00:09:23.716Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T00:11:34.788Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T00:11:34.788Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T00:15:50.788Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T00:15:50.788Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T00:18:01.860Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T00:18:01.860Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T00:18:10.052Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T00:18:10.052Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T00:20:21.124Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T00:20:21.124Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T10:06:21.188Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T10:06:21.189Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T10:06:56.004Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T10:06:56.004Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T10:08:32.260Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T10:08:32.260Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T10:09:05.028Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T10:09:05.028Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T10:09:07.076Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T10:09:07.076Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T10:11:16.100Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T10:11:16.100Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T10:27:08.420Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T10:27:08.420Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T10:29:19.492Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T10:29:19.492Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T10:33:43.684Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T10:33:43.684Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T10:35:54.756Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T10:35:54.756Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T11:02:11.716Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T11:02:11.716Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T11:04:22.788Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T11:04:22.788Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T12:16:11.780Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T12:16:11.780Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T12:18:22.852Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T12:18:22.852Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T14:58:54.596Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T14:58:54.596Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T15:00:04.228Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T15:00:04.229Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T15:01:05.668Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T15:01:05.669Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T15:01:24.100Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T15:01:24.100Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T15:02:15.300Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T15:02:15.301Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T15:03:08.548Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T15:03:08.548Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T15:03:35.176Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T15:03:35.176Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T15:05:19.620Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T15:05:19.620Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T15:05:56.484Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T15:05:56.484Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T15:08:07.556Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T15:08:07.556Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T17:50:38.084Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T17:50:38.084Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T17:52:49.156Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T17:52:49.156Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T18:08:41.476Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T18:08:41.476Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T18:08:57.860Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T18:08:57.860Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T18:10:17.732Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T18:10:17.732Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T18:10:40.260Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T18:10:40.260Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T18:10:52.548Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T18:10:52.548Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T18:11:08.932Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T18:11:08.932Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T18:12:28.804Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T18:12:28.804Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T18:12:51.332Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T18:12:51.332Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T18:26:20.292Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T18:26:20.292Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T18:28:31.364Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T18:28:31.364Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T18:34:58.436Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T18:34:58.436Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T18:37:09.508Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T18:37:09.508Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T19:09:26.916Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T19:09:26.916Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T19:11:37.988Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T19:11:37.988Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T19:26:02.244Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T19:26:02.245Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-23T19:28:13.316Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-23T19:28:13.316Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-24T00:14:42.180Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-24T00:14:42.180Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-24T00:15:41.572Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-24T00:15:41.572Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-24T00:16:53.252Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-24T00:16:53.252Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-24T00:17:52.644Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-24T00:17:52.644Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-24T00:21:33.828Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-24T00:21:33.828Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-24T00:23:44.900Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-24T00:23:44.900Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-24T00:36:28.804Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-24T00:36:28.804Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-24T00:36:30.852Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-24T00:36:30.852Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-24T00:36:51.332Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-24T00:36:51.332Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-24T00:37:07.716Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-24T00:37:07.716Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-24T00:38:39.876Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-24T00:38:39.876Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-24T00:38:41.924Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-24T00:38:41.924Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-24T00:39:02.404Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-24T00:39:02.404Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-24T00:39:18.788Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-24T00:39:18.788Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-24T01:02:06.852Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-24T01:02:06.852Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-24T01:04:17.924Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-24T01:04:17.924Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-24T01:07:32.484Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-24T01:07:32.484Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-24T01:09:43.556Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-24T01:09:43.556Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-24T01:57:04.132Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-24T01:57:04.132Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-05-24T01:59:15.204Z] error: <httpProxy> Error calling https://gestao.ecosilence.com.br/...
+[2024-05-24T01:59:15.204Z] error: <httpProxy> [
+  500,
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at afterConnectMultiple (node:net:1601:5) {
+    code: 'ETIMEDOUT',
+    [errors]: [ [Error] ]
+  }
+]
+[2024-07-10T11:56:55.677Z] error: undefined
+[2024-07-10T11:56:55.677Z] error: undefined
+[2024-07-10T11:56:55.678Z] error: undefined
+[2024-07-10T12:12:48.688Z] error: undefined
+[2024-07-10T12:12:48.690Z] error: undefined
+[2024-07-10T12:12:48.690Z] error: undefined
+[2024-07-10T16:00:17.995Z] error: undefined
+[2024-07-10T16:00:17.996Z] error: undefined
+[2024-07-10T16:00:17.996Z] error: undefined
+[2024-07-10T16:00:19.809Z] error: undefined
+[2024-07-10T16:00:19.809Z] error: undefined
+[2024-07-10T16:00:19.809Z] error: undefined
+[2024-07-10T16:26:15.913Z] error: undefined
+[2024-07-10T16:26:15.913Z] error: undefined
+[2024-07-10T16:26:15.914Z] error: undefined
+[2024-07-10T16:35:06.808Z] error: undefined
+[2024-07-10T16:35:06.809Z] error: undefined
+[2024-07-10T16:35:06.809Z] error: undefined
+[2024-07-10T19:35:02.820Z] error: undefined
+[2024-07-10T19:35:02.820Z] error: undefined
+[2024-07-10T19:35:02.820Z] error: undefined
+[2024-07-10T21:46:08.744Z] error: undefined
+[2024-07-10T21:46:08.745Z] error: undefined
+[2024-07-10T21:46:08.745Z] error: undefined
+[2024-07-10T21:46:09.838Z] error: undefined
+[2024-07-10T21:46:09.838Z] error: undefined
+[2024-07-10T21:46:09.838Z] error: undefined
+[2024-07-11T01:27:53.937Z] error: undefined
+[2024-07-11T01:27:53.938Z] error: undefined
+[2024-07-11T01:27:53.938Z] error: undefined
+[2024-07-11T02:23:59.012Z] error: undefined
+[2024-07-11T02:23:59.012Z] error: undefined
+[2024-07-11T02:23:59.013Z] error: undefined
+[2024-07-11T04:00:54.196Z] error: undefined
+[2024-07-11T04:00:54.197Z] error: undefined
+[2024-07-11T04:00:54.198Z] error: undefined
+[2024-07-11T04:07:02.928Z] error: undefined
+[2024-07-11T04:07:02.929Z] error: undefined
+[2024-07-11T04:07:02.929Z] error: undefined
+[2024-07-11T06:23:05.461Z] error: undefined
+[2024-07-11T06:23:05.461Z] error: undefined
+[2024-07-11T06:23:05.462Z] error: undefined
+[2024-07-11T06:32:16.772Z] error: undefined
+[2024-07-11T06:32:16.772Z] error: undefined
+[2024-07-11T06:32:16.772Z] error: undefined
+[2024-07-11T06:46:39.421Z] error: undefined
+[2024-07-11T06:46:39.421Z] error: undefined
+[2024-07-11T06:46:39.421Z] error: undefined
+[2024-07-11T08:17:46.370Z] error: undefined
+[2024-07-11T08:17:46.370Z] error: undefined
+[2024-07-11T08:17:46.370Z] error: undefined
+[2024-07-11T11:33:32.444Z] error: undefined
+[2024-07-11T11:33:32.445Z] error: undefined
+[2024-07-11T11:33:32.445Z] error: undefined
+[2024-07-11T13:10:23.380Z] error: undefined
+[2024-07-11T13:10:23.381Z] error: undefined
+[2024-07-11T13:10:23.381Z] error: undefined
+[2024-07-11T13:23:12.513Z] error: undefined
+[2024-07-11T13:23:12.513Z] error: undefined
+[2024-07-11T13:23:12.514Z] error: undefined
+[2024-07-11T20:21:16.463Z] error: undefined
+[2024-07-11T20:21:16.464Z] error: undefined
+[2024-07-11T20:21:16.464Z] error: undefined
+[2024-07-12T02:38:23.886Z] error: undefined
+[2024-07-12T02:38:23.886Z] error: undefined
+[2024-07-12T02:38:23.887Z] error: undefined
+[2024-07-12T06:37:14.853Z] error: undefined
+[2024-07-12T06:37:14.853Z] error: undefined
+[2024-07-12T06:37:14.853Z] error: undefined
+[2024-07-12T06:39:20.856Z] error: undefined
+[2024-07-12T06:39:20.856Z] error: undefined
+[2024-07-12T06:39:20.857Z] error: undefined
+[2024-07-12T06:39:34.861Z] error: undefined
+[2024-07-12T06:39:34.862Z] error: undefined
+[2024-07-12T06:39:34.862Z] error: undefined
+[2024-07-12T06:39:48.839Z] error: undefined
+[2024-07-12T06:39:48.840Z] error: undefined
+[2024-07-12T06:39:48.840Z] error: undefined
+[2024-07-12T08:41:44.885Z] error: undefined
+[2024-07-12T08:41:44.885Z] error: undefined
+[2024-07-12T08:41:44.885Z] error: undefined
+[2024-07-12T08:41:45.895Z] error: undefined
+[2024-07-12T08:41:45.895Z] error: undefined
+[2024-07-12T08:41:45.896Z] error: undefined
+[2024-07-12T09:04:05.881Z] error: undefined
+[2024-07-12T09:04:05.882Z] error: undefined
+[2024-07-12T09:04:05.882Z] error: undefined
+[2024-07-12T09:04:05.890Z] error: undefined
+[2024-07-12T09:04:05.891Z] error: undefined
+[2024-07-12T09:04:05.891Z] error: undefined
+[2024-07-12T09:07:33.906Z] error: undefined
+[2024-07-12T09:07:33.907Z] error: undefined
+[2024-07-12T09:07:33.907Z] error: undefined
+[2024-07-12T09:07:47.855Z] error: undefined
+[2024-07-12T09:07:47.856Z] error: undefined
+[2024-07-12T09:07:47.856Z] error: undefined
+[2024-07-12T09:08:00.882Z] error: undefined
+[2024-07-12T09:08:00.883Z] error: undefined
+[2024-07-12T09:08:00.883Z] error: undefined
+[2024-07-12T22:55:45.468Z] error: undefined
+[2024-07-12T22:55:45.468Z] error: undefined
+[2024-07-12T22:55:45.468Z] error: undefined
+[2024-07-13T13:24:56.459Z] error: undefined
+[2024-07-13T13:24:56.460Z] error: undefined
+[2024-07-13T13:24:56.460Z] error: undefined
+[2024-07-13T14:08:59.457Z] error: undefined
+[2024-07-13T14:08:59.457Z] error: undefined
+[2024-07-13T14:08:59.457Z] error: undefined
+[2024-07-13T15:30:21.469Z] error: undefined
+[2024-07-13T15:30:21.469Z] error: undefined
+[2024-07-13T15:30:21.470Z] error: undefined
+[2024-07-13T15:30:21.470Z] error: undefined
+[2024-07-13T15:30:34.472Z] error: undefined
+[2024-07-13T15:30:34.473Z] error: undefined
+[2024-07-13T15:30:34.473Z] error: undefined
+[2024-07-13T15:30:34.473Z] error: undefined
+[2024-07-13T17:05:35.460Z] error: undefined
+[2024-07-13T17:05:35.460Z] error: undefined
+[2024-07-13T17:05:35.460Z] error: undefined
+[2024-07-13T19:14:22.463Z] error: undefined
+[2024-07-13T19:14:22.463Z] error: undefined
+[2024-07-13T19:14:22.465Z] error: undefined
+[2024-07-13T19:14:22.465Z] error: undefined
+[2024-07-13T19:26:13.480Z] error: undefined
+[2024-07-13T19:26:13.481Z] error: undefined
+[2024-07-13T19:26:13.481Z] error: undefined
+[2024-07-13T20:08:09.462Z] error: undefined
+[2024-07-13T20:08:09.463Z] error: undefined
+[2024-07-13T20:08:09.464Z] error: undefined
+[2024-07-13T20:08:22.476Z] error: undefined
+[2024-07-13T20:08:22.477Z] error: undefined
+[2024-07-13T20:08:22.477Z] error: undefined
+[2024-07-13T20:08:35.467Z] error: undefined
+[2024-07-13T20:08:35.468Z] error: undefined
+[2024-07-13T20:08:35.468Z] error: undefined
+[2024-07-13T20:46:03.468Z] error: undefined
+[2024-07-13T20:46:03.469Z] error: undefined
+[2024-07-13T20:46:03.469Z] error: undefined

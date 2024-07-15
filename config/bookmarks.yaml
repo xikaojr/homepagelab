@@ -4,19 +4,19 @@
 - Linx OMS:
     - LINX-CHAORDIC:
         - icon: github-light.png
-          href: https://github.com/chaordic
+          href: https://github.com/Linx-Enterprise/
     - NEWOFFERS-ORDER:
         - icon: github-light.png
-          href: https://github.com/chaordic/newoffers-order
+          href: https://github.com/Linx-Enterprise/oms-order-api
     - COCKPIT:
         - icon: github-light.png
           href: https://github.com/chaordic/oms-cockpit
     - AKS-ORDER:
         - icon: github-light.png
-          href: https://github.com/chaordic/aks-oms-order
+          href: https://github.com/Linx-Enterprise/aks-oms-order
     - BUSCARRIER:
         - icon: github-light.png
-          href: https://github.com/chaordic?q=buscarrier&type=all&language=&sort=
+          href: https://github.com/Linx-Enterprise?q=buscarrier&type=all&language=&sort=
 
 - Pedreiro-Digital-Studio:
     - Eco Silence:
