@@ -2,25 +2,6 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/latest/configs/services
 
-- Utilities:
-    - Render.com:
-        icon: benotes.png
-        href: https://render.com
-        description: Site para criar banco de dados e outras coisas de graça
-    - Cloud MongoDb Access:
-        icon: mongodb.png
-        href: https://account.mongodb.com/account/login
-        description: MongoDb Atlas Access (Login with sso google)
-    - Mongo PlayGround:
-        icon: mongodb.png
-        href: https://mongoplayground.net/
-        description: MongoDb PlayGround
-    - Valey of Code:
-        icon: cloudpanel.svg
-        href: https://thevalleyofcode.com/
-        description: The Valley of Code
-	
-
 - AREA PJ:
     - Simples Nacional (BR PJ):
         icon: cloudpanel.svg
@@ -35,45 +16,12 @@
         href: https://app.agilize.com.br/#/
         description: Contabilidade Online [47584961000154]
 
-- Daily Job:
-    - Jira:
-        icon: jira.png
-        href: https://jira.linx.com.br/secure/RapidBoard.jspa?projectKey=OMNI&rapidView=1198
-        description: OMS - Jira Sprint
-    - Outlook:
-        icon: microsoft-todo.png
-        href: https://outlook.office.com/mail/
-        description: Personal Account
-    - Microsoft:
-        icon: microsoft.png
-        href: https://myaccount.microsoft.com/
-        description: Personal Account
-    - Daywork:
-        icon: /images/daywork.png
-        href: https://daywork.com.br/
-        description: Other Jobs
-    - Daywork:
-        icon: workadventure.png
-        href: https://play.workadventu.re/@/itarget-tecnologia/itarget/startup
-        description: iTarget Work Adventure
-
-- ABC Tecnology:
-    - Digibee:
-        icon: radarr.png
-        href: https://www.godigibee.io/login
-        description: Digibee
-    - EFCS:
-        icon: radarr.png
-        href: http://app.efcs.com.br/expenses-web/index.jsf
-        description: Ponto Eletronico EFCS
-
-
 - Application Monitoring:
     - Sig.recsodine:
         icon: radarr.png
         href: https://sig.recsodine.com.br/
         siteMonitor: https://sig.recsodine.com.br/
-    - Eco.silence:
+    - API.verdesec:
         icon: radarr.png
-        href: https://gestao.ecosilence.com.br/
-        siteMonitor: https://gestao.ecosilence.com.br/
+        href: https://api.verdesec.com.br/api
+        siteMonitor: https://api.verdesec.com.br/api
